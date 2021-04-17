@@ -1,6 +1,9 @@
 // .secaoSpacer {
 //     overflow-x: hidden;
 // }
+main.app {
+    overflow: hidden;
+}
 
 .videoFixedSpace {
     overflow: hidden;
@@ -8,4 +11,12 @@
 
 #videoSection {
     overflow: hidden;
+}
+
+#futuroSection {
+    background-color: #081131 !important;
+}
+
+section {
+    overflow: hidden !important;
 }
